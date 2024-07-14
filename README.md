@@ -11,7 +11,7 @@ To run this notebook locally make sure you have [git](https://help.github.com/en
 Then in a terminal window:
 
 ```bash
-$ git clone https://github.com/KirillShmilovich/MLP-Neural-Network-From-Scrath
+$ git clone https://github.com/imranadas/MLP-Scratch
 $ cd MLP-Neural-Network-From-Scrath
 $ jupyter-notebook MLP.ipynb
 ```
